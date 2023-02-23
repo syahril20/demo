@@ -10,9 +10,5 @@ public class HelloController {
     public String hello() {
         return "Yaudaaahh,, Boleeeh!";
     }
-    @GetMapping("/kipak")
-    public String yahu() {
-        return "AhMeme sia Mah!";
-    }
 
 }
