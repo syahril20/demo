@@ -16,8 +16,6 @@ public class perpus {
 
     private String book_name;
 
-    private String author_name;
-
     private int harga;
 
     public String getBook_name() {
@@ -26,14 +24,6 @@ public class perpus {
 
     public void setBook_name(String book_name) {
         this.book_name = book_name;
-    }
-
-    public String getAuthor_name() {
-        return author_name;
-    }
-
-    public void setAuthor_name(String author_name) {
-        this.author_name = author_name;
     }
 
     public int getHarga() {
